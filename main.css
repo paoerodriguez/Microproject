@@ -39,7 +39,7 @@ body, html {
   }
   
   .content {
-    background-color: white; 
+    background-image: linear-gradient(white, #d8c0cc, #ff99cc); 
     position: relative;
   }
   
